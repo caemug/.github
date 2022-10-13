@@ -1,2 +1,0 @@
-# .github
-welcome to caemug!
